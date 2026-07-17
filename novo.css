@@ -50,6 +50,7 @@ section {
     text-align: justify;
     border-radius: 15px;
     line-height: 1.5;
+    box-shadow: 0 5px 15px rgb(0, 0, 0, 0.15);
 }
 
 ul {
