@@ -7,7 +7,8 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
-    background-color: #fffcf9;
+    text-decoration-color: #2F2F2F;
+    background-color: #FFF8F2;
     text-align: justify;
     padding-top: 80px;
     position: static;
@@ -17,7 +18,7 @@ body {
     padding: 5px;
     position: fixed;
     text-align: center;
-    background-color: #FF8C00;
+    background-color: #FF7F24;
     width: 100%;
     top: 0;
     z-index: 1000;
@@ -33,7 +34,7 @@ body {
 .nav-menu a {
     text-decoration: none;
     margin: 0 10px;
-    color: #8B4513;
+    color: #F5E6D3;
 }
 
 .nav-menu a:hover {
@@ -42,7 +43,7 @@ body {
 
 section {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #F5DEB3;
+    background-color: #F5E6D3;
     padding: 50px;
     margin: 50px 150px;
     scroll-margin-top: 90px;
